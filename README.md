@@ -1,10 +1,10 @@
-# [kraken-os](https://drive.google.com/u/0/uc?id=1O6eAYWFBiChq2ush_NnAjl2pGE_5wriE&export=download)
+# [kraken-os](https://drive.google.com/u/2/uc?id=1Xu4bj31BlY5yy7ampgEPA3S1gFd1ZNfL&export=download)
 
 Distro linux para alunos de ciência da computação do IFMA.<br>
 
 ![IMG-20231021-WA0001](https://github.com/thiago-figueredo/rooted-os/assets/71792990/6ee27b0f-ca93-4b83-b111-677df3b79256)
 
-Baixe a isso aqui: [kraken-os](https://drive.google.com/u/0/uc?id=1O6eAYWFBiChq2ush_NnAjl2pGE_5wriE&export=download)
+Baixe a isso aqui: [kraken-os](https://drive.google.com/u/2/uc?id=1Xu4bj31BlY5yy7ampgEPA3S1gFd1ZNfL&export=download)
 
 # [Introdução]()
 Essa wiki documenta todas as etapas de implementação de um Sistema Operacional Linux proposto pelo professor [Paulo Henrique Sousa Barbosa](https://github.com/agenteph) na disciplina de Redes de Computadores I do curso de Ciência da Computação do Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - Campus Imperatriz (IFMA). Projeto implementado por [Alberto Felipe Monteiro Sena](https://github.com/albertofelipe), [Faymerson Alves de Sousa](https://github.com/Faymer), [Joana Cristina Carvalho Silva](https://github.com/joanacristinacs), [Lucas Vinícius Rodrigues Frazão](https://github.com/lucasviniciusfrazao), [Pedro Gabriel Silva Fernandes Lima](https://github.com/pedrogabriel2002) e [Thiago Figueredo da Costa Antunes](https://github.com/thiago-figueredo).
